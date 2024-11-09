@@ -8,4 +8,7 @@
 'dmenu-fuzzymatch-5.3.diff'  
 'dmenu-managed-4.9.diff'  
 'dmenu-mousesupport-5.1.diff'  
-'dmenu-mousesupport-motion-5.2.diff'
+'dmenu-mousesupport-motion-5.2.diff'  
+'dmenu-multi-selection-4.9.diff'  
+'dmenu-highlight-20201211-fcdc159.diff'  
+
